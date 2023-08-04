@@ -1,5 +1,5 @@
 # GNN_Spatial
-The repository is the PyTorch implamentation of Graph Convolutional Networks and Graph Attention Networks for spatial information extraction from traffic flow data(PeMS04, METR_LA).
+The repository is the PyTorch implamentation of Graph Convolutional Networks and Graph Attention Networks for spatial information extraction from time-series flow data (PeMS04, METR_LA).
 
 ## Run the demo
 Jamp to `/config/` and edit the corresponding `.conf` as needed.
